@@ -1,15 +1,16 @@
 irc:
   server: chat.freenode.net
   channels:
-    - 'code4lib'
-    - 'duraspace-ff'
+    - '#code4lib'
+    - '#duraspace-ff'
   nick: my_irc_bot
   #user: my_irc_username
-  #password: 'my_irc_password'
+  #password: my_irc_password
 
 twitter:
-  username: 'my_twitter_username'
-  api_key: 'XXXXXXXXXXXXXXXXXXXXXXXXXXX'
-  api_secret: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
-  access_token: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
-  access_secret: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+  username: app_twitter_username
+  api_key: XXXXXXXXXXXXXXXXXXXXXXXXXXX
+  api_secret: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  access_token: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  access_secret: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+  mention: your_twitter_username
